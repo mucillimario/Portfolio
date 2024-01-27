@@ -1,0 +1,28 @@
+
+        /* Estilos aleatorios para cada sección y div */
+        /* Puedes personalizar estos estilos según tus preferencias */
+        .seccion1 { background-color: #aaffcc; }
+        .seccion2 { background-color: #ff99aa; }
+        .seccion3 { background-color: #ffeebb; }
+        .seccion4 { background-color: #bbccff; }
+        .footer { background-color: #ffccdd; }
+        
+        /* Estilos para los divs internos */
+        .seccion3 .col-lg-4,
+        .seccion4 .col-lg-6,
+        .footer .col-lg-3 {
+            background-color: #ffcc00; /* Puedes cambiar este color */
+            margin-bottom: 10px; /* Añadir espacio entre los divs internos */
+        }
+
+        .card01 { border: blue solid 5px; }
+        .card02 { border: rgb(74, 186, 74) solid 5px; }
+        .card03 { border: rgb(206, 42, 77) solid 5px; }
+        .card04 { border: purple solid 5px; }
+        .card05 { border: rgb(185, 16, 44) solid 5px; }
+        .columna01 { border: teal solid 5px; }
+        .columna02 { border: crimson solid 5px; }
+        .columna03 { border: #9935CC solid 5px; } /* DarkOrchid */
+        .columna04 { border: #FF6347 solid 5px; } /* Tomato */
+
+
